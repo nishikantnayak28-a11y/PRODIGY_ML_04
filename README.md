@@ -127,7 +127,7 @@ Task Code: PRODIGY_ML_04
 
 ## 👨‍💻 Author
 
-Ashutosh Agrawal
+Nishikanta Nayak
 
 B.Tech CSE Student
 Government College of Engineering, Kalahandi
